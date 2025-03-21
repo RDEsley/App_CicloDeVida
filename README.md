@@ -17,4 +17,4 @@ Projeto Android para demonstrar o **Ciclo de Vida de uma Activity** no Android.
 Este projeto está sob a licença **MIT**. Consulte o arquivo LICENSE para mais detalhes.
 
 ## 📩 Contato
-📧 [richardesleyso@gmail.com] | 💻 [RDEsley](https://github.com/RDEsley)
+📧 [richardesleyso@gmail.com] | 🗺️ [Linkedin](www.linkedin.com/in/richardesley) | 💻 [RDEsley](https://github.com/RDEsley)
